@@ -64,9 +64,11 @@ Inspiration:
 ## UI Designs
 
 - Figma:
-  [Betta Wava](#)
+  [Betta Wava](https://www.figma.com/design/r4MbE5O51U5mhvq1oljrdO/logo?node-id=32-19&t=KFonU6A3SAQdVi3l-1)
 
 ### Home Page
+
+<img src="./images/Home-page.jpg" />
 
 ### Product Page
 
