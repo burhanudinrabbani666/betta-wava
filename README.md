@@ -72,6 +72,8 @@ Inspiration:
 
 ### Product Page
 
+<img src="./images/grade-page.png" />
+
 ### Shoping cart Page
 
 ### Checkout Page
