@@ -4,14 +4,14 @@
 
 ## Links
 
-- Website application: [betta-wava-web](#)
-- Restful API: [betta-wava-api](#)
+- Website application: [bettawava-burhanudin.com](bettawava-burhanudin.com)
+- Restful API: [betta-wava-api](bettawava-api.burhanudin.com)
 
 Repository:
 
-- General: [betta-wava](https://github.com/burhanudinrabbani666/betta-wava)
-- Frontend: [betta-wava-web](#)
-- Backend: [betta-wava-api](#)
+- General: https://github.com/burhanudinrabbani666/betta-wava
+- Frontend: [bettawava-burhanudin.com](#)
+- Backend: https://github.com/burhanudinrabbani666/betta-wava-api
 
 Inspiration:
 
