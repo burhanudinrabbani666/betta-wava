@@ -1,34 +1,33 @@
 # Betta Wava - Adopt Betta
 
-[Betta Wava](#) is a web application built for betta fish enthusiasts to discover and adopt their favorite fish. Explore a wide range of betta varieties, including Longfin, Plakat, Wild Betta, and Giant. Choose from multiple quality levels such as Competition Grade, Grade A, or even betta fry — perfect for starting your own breeding or farming journey.
+[Betta Wava](https://bettawava.burhanudin.com) is a web application built for betta fish enthusiasts to discover and adopt their favorite fish. Explore a wide range of betta varieties, including Longfin, Plakat, Wild Betta, and Giant. Choose from multiple quality levels such as Competition Grade, Grade A, or even betta fry — perfect for starting your own breeding or farming journey.
 
 ## Links
 
-- Website application: [bettawava-burhanudin.com](bettawava-burhanudin.com)
-- Restful API: [betta-wava-api](bettawava-api.burhanudin.com)
+- Website application: https://betta-wava.burhanudin.com
+- Restful API: https://betta-wava-api.burhanudin.com
 
 Repository:
 
 - General: https://github.com/burhanudinrabbani666/betta-wava
-- Frontend: [bettawava-burhanudin.com](#)
 - Backend: https://github.com/burhanudinrabbani666/betta-wava-api
+- Frontend: https://github.com/burhanudinrabbani666/betta-wava-web
 
 Inspiration:
 
-- [MOLLY JAYA INDONESIA](https://mollyjaya.id/)
-- [TROPICFLOW](https://tropicflow.com/?srsltid=AfmBOopYB79zJyKjxc__eQ0A12mtj5DjT_xsTYN_iRK27p8XdZWhgbX1)
-- [UNIQLO](https://www.uniqlo.com/id/id/men)
+- [Molly Jaya Indonesia](https://mollyjaya.id)
+- [Tropicflow](https://tropicflow.com)
+- [Uniqlo](https://uniqlo.com)
 
 ## Features
 
 - **Home Page**
   - Hero Section
   - Products Catalog
-  - Navigation for:
+  - Navigation for (much later)
     - Variant
-    - Color
-    - Grade
-
+      - Color
+      - Grade
 - **Product Page**
   - Image URL
   - SKU (Stock keeping Unit)
@@ -40,35 +39,31 @@ Inspiration:
     - Quantity Input
     - Increment and Decrement Button
     - Add to Cart Submit Button
-  - Favorites Button
-  - Review other people Aquarium
-  - Threatment Fish Guide
-  - Recomendation for tank
-
+  - Favorites Button (much later)
+  - Review other people Aquarium (much later)
+  - Treatment Fish Guide (much later)
+  - Recomendation for tank (much later)
 - **Shopping Cart page**
   - Product items to buy
-    - Image, Name, Price, Qunatity, subtotal(Price x Quantity)
+    - Image, Name, Price, Qunatity, subtotal (Price x Quantity)
     - Remove item
     - Change Quantity form
   - Link: Continue adopt, go to Betta catalogue
   - Link: Checkout
-
 - **Checkout page**
   - Order Summary
     - Input For Discount
     - Product items to buy
     - Grand total of all product items to buy
-
-- **Place Order** / Trasaction is being processed
+- **Place Order** / Transaction is being processed
 
 ## UI Designs
 
-- Figma:
-  [Betta Wava](https://www.figma.com/design/r4MbE5O51U5mhvq1oljrdO/logo?node-id=32-19&t=KFonU6A3SAQdVi3l-1)
+- Figma: [Betta Wava](https://www.figma.com/design/r4MbE5O51U5mhvq1oljrdO/logo?node-id=32-19&t=KFonU6A3SAQdVi3l-1)
 
 ### Home Page
 
-<img src="./images/Home-page.jpg" />
+<img src="./images/home-page.jpg" />
 
 ### Product Page
 
