@@ -5,7 +5,7 @@
 ## Links
 
 - Website application: https://betta-wava.burhanudin.com
-- Restful API: https://betta-wava-api.burhanudin.com
+- RESTful API: https://betta-wava-api.burhanudin.com
 
 Repository:
 
@@ -67,28 +67,19 @@ Inspiration:
 
 ### Product Page
 
-<img src="./images/grade-page.png" />
-
-### Shoping cart Page
-
-### Checkout Page
-
-### Place Order
+<img src="./images/grade-page.jpg" />
 
 ## Backend REST API Endpoints
 
-- Production: `https://github.com/burhanudinrabbani666/betta-wava`
-- Local: `http://localhost:3001`
+- Production: `https://betta-wava-api.burhanudin.com`
+- Local: `http://localhost:3000`
 
 Priority:
 
-| Endpoint              | HTTP  | Description            | Permission |
-| --------------------- | ----- | ---------------------- | ---------- |
-| `/products`           | `GET` | Get all products       | Public     |
-| `/products/{slug}`    | `GET` | Get product by slug    | Public     |
-| `/products/{variant}` | `GET` | Get product by Variant | Public     |
-| `/products/{color}`   | `GET` | Get product by Color   | Public     |
-| `/products/{grade}`   | `GET` | Get product by Grade   | Public     |
+| Endpoint           | HTTP  | Description         | Permission |
+| ------------------ | ----- | ------------------- | ---------- |
+| `/products`        | `GET` | Get all products    | Public     |
+| `/products/{slug}` | `GET` | Get product by slug | Public     |
 
 With Auth:
 
@@ -114,14 +105,11 @@ Cart:
 
 Priority:
 
-| Route                | Title                                |
-| -------------------- | ------------------------------------ |
-| `/`                  | Home Page                            |
-| `/products`          | All Products Page                    |
-| `/products/:slug`    | One Product by Slug Page             |
-| `/products/:variant` | Bettas by Variant in Categories Page |
-| `/products/:color`   | Bettas by Color in Categories Page   |
-| `/products/:grade`   | Bettas by Grade in Categories Page   |
+| Route             | Title                    |
+| ----------------- | ------------------------ |
+| `/`               | Home Page                |
+| `/products`       | All Products Page        |
+| `/products/:slug` | One Product by Slug Page |
 
 With Auth:
 
