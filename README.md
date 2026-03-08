@@ -10,7 +10,7 @@
 Repository:
 
 - General: https://github.com/burhanudinrabbani666/betta-wava
-- Frontend: [bettawava-burhanudin.com](#)
+- Frontend: https://github.com/burhanudinrabbani666/betta-wava-web
 - Backend: https://github.com/burhanudinrabbani666/betta-wava-api
 
 Inspiration:
